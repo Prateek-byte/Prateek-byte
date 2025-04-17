@@ -1,21 +1,10 @@
 <!-- Animated Header with Typing Effect -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code
-      &size=32
-      &duration=1500
-      &pause=500
-      &color=61DAFB
-      &background=00000000
-      &center=true
-      &vCenter=true
-      &multiline=true
-      &repeat=true
-      &width=650
-      &height=80
-      &lines=👋+Hi,+I%27m+Prateek+Mishra;Full+Stack+Web+Developer;Competitive+Programmer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1500&pause=500&color=61DAFB&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%F0%9F%91%8B+Hi,+I%27m+Prateek+Mishra;Full+Stack+Web+Developer;Competitive+Programmer"
     alt="Typing SVG" />
 </p>
+
 
 
 

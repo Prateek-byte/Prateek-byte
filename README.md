@@ -1,6 +1,6 @@
 <!-- Animated Header with Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weights=400&size=32&duration=2500&pause=500&color=61DAFB&background=00000000&center=true&width=600&lines=Hi,+I%27m+Prateek+Mishra+%F0%9F%91%8B%0AFull+Stack+Web+Developer+%26+Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2000&pause=1000&color=61DAFB&background=00000000&center=true&width=600&lines[]=Hi,+I%27m+Prateek+Mishra+%F0%9F%91%8B&lines[]=Full+Stack+Web+Developer+%26+Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,8 +36,11 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prateek-byte&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-byte&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Total_Stars-0-blue?style=for-the-badge&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total_Commits_(2025)-140-green?style=for-the-badge&logo=github" alt="Total Commits (2025)" />
+  <img src="https://img.shields.io/badge/Total_PRs-0-purple?style=for-the-badge&logo=github" alt="Total PRs" />
+  <img src="https://img.shields.io/badge/Total_Issues-0-red?style=for-the-badge&logo=github" alt="Total Issues" />
+  <img src="https://img.shields.io/badge/Contributed_to_(last_year)-0-orange?style=for-the-badge&logo=github" alt="Contributed last year" />
 </p>
 
 ---

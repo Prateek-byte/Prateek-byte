@@ -57,9 +57,9 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Commits in 2025
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Prateek-byte&theme=github&hide_border=true" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/Commits_2025-140-green?style=for-the-badge&logo=github" alt="Commits in 2025" />
 </p>
 
 ---

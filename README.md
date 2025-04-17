@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Prateek Mishra 👋  
+**Full Stack Web Developer and Competitive Programmer.** 😉
 
-<!--
-**Prateek-byte/Prateek-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Prateek-byte)
 
-Here are some ideas to get you started:
+🎯 I’m currently working on **Python**  
+🌱 I’m learning **DevOps**  
+❤️ I love contributing to **Open Source**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/prateek-mishra-a5b204216/))  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/your-handle)
+
+---
+
+### Languages and Tools   
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
+<!-- add as many as you like -->
+
+---
+
+### 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateek-byte&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-byte&layout=compact)

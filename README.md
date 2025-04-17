@@ -1,7 +1,23 @@
 <!-- Animated Header with Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2000&pause=1000&color=61DAFB&background=00000000&center=true&width=600&lines[]=Hi,+I%27m+Prateek+Mishra+%F0%9F%91%8B&lines[]=Full+Stack+Web+Developer+%26+Competitive+Programmer" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code
+      &size=32
+      &duration=1500
+      &pause=500
+      &color=61DAFB
+      &background=00000000
+      &center=true
+      &vCenter=true
+      &multiline=true
+      &repeat=true
+      &width=650
+      &height=80
+      &lines=👋+Hi,+I%27m+Prateek+Mishra;Full+Stack+Web+Developer;Competitive+Programmer"
+    alt="Typing SVG" />
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prateek-byte&style=flat-square" alt="Profile views" />

@@ -22,7 +22,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prateek-mishra-a5b204216/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/channel/your-channel-id" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="[https://github.com/Prateek-byte](https://portfolio-k02p.onrender.com/)" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-k02p.onrender.com/" target="blank"><img
+  src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+  alt="Portfolio"
+/>
+</a>
 </p>
 
 ---

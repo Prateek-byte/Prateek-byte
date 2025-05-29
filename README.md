@@ -1,4 +1,4 @@
-<!-- Animated Header with Typing Effect -->
+<!-- Animated Header with Typig Effect -->
 <!-- Animated Header with Typing Effect -->
 <!-- Animated Header with Typing Effect -->
 <p align="center">
